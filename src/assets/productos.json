@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Cuadro Guns n' Roses",
+      "descripcion": "Cuadro porta entrada Guns n' Roses en Huracán 2025",
+      "precio": 40000,
+      "avatar": "/img_cuadros/cuadrognr.jpeg",
+      "categoria": "rock",
+      "stock": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Cuadro Tool",
+      "descripcion": "Cuadro porta pulsera Guns n' Roses en Huracán 2025",
+      "precio": 40000,
+      "avatar": "/img_cuadros/cuadrotool.jpeg",
+      "categoria": "rock",
+      "stock": 4
+    },
+    {
+      "id": 3,
+      "nombre": "Cuadro Masters of rock",
+      "descripcion": "Cuadro porta entrada y tarjeta 2025",
+      "precio": 40000,
+      "avatar":"/img_cuadros/cuadromasters.jpeg",
+      "categoria": "rock",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "nombre": "Cuadro Iron Maiden",
+      "descripcion": "Cuadro porta entrada y tarjeta 2024",
+      "precio": 40000,
+      "avatar": "/img_cuadros/cuadromaiden.jpeg",
+      "categoria": "rock",
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Cuadro System of a down",
+      "descripcion": "Cuadro porta entrada 2025",
+      "precio": 40000,
+      "avatar": "/img_cuadros/cuadrosoad.jpeg",
+      "categoria": "rock",
+      "stock": 1
+    }
+  ]
+}
